@@ -1,0 +1,4 @@
+mysql:latest
+docker:latest
+postgres:latest
+python:3.12
