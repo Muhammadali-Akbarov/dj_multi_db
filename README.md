@@ -1,4 +1,8 @@
-## Django with multi database.
+# Django multi database example
+<p align="center">
+  <img style="width: 60%;" src="./static/image/intro.gif">
+</p>
+Support Group - <a href="https://t.me/+Ng1axYLNyBAyYTRi">Telegram</a> <br/>
 
 ## Installation
 * 1 - clone repo
