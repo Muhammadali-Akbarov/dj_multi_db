@@ -26,7 +26,7 @@ psql.up:
 		-e POSTGRES_PASSWORD=password \
 		-e POSTGRES_USER=psql_dj_multi_db \
 		-e POSTGRES_DB=psql_dj_multi_db \
-		postgres
+		postgres:latest
 
 migrate.psql:
 	python3 manage.py migrate --database=psql dj_app_1
