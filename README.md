@@ -15,9 +15,9 @@ Support Group - <a href="https://t.me/+Ng1axYLNyBAyYTRi">Telegram</a> <br/>
 * 4 - Install dependencies
   - ```pip3 install -r requirements.txt```
 * 5 - Up databased dependencies
-  1) ```make psql.up```
-  2) ```make mysql.up```
-  3) ```make migrate.psql```
-  4) ```make migrate.mysql```
+  -  ```make psql.up```
+  -  ```make mysql.up```
+  - ```make migrate.psql```
+  -  ```make migrate.mysql```
 * 6 - Run
   - ```make run.local```
